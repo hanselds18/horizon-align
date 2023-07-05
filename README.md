@@ -24,7 +24,7 @@ HorizonAlign sets a new standard for horizontal alignment design applications, c
 2. Azimuth & Horizontal Alignment are not sync
 3. Only ".xlsx" format that can be supported for Horizontal Alignment
 4. Only support for Urban Roads design
-5. Using Indonesia's rule for 2021 Road Geometric Design Guideline
+5. Using Indonesia's rule for 2021 Road Geometric Design Guideline for the main guideline & The Green Book 7th Edition of AASTHO for complementary
 
 # How to Use
 1. **Azimuth** menu
