@@ -1,5 +1,4 @@
 # horizon-align
------------------------------------------------------------------------------------------------------------------------------------------------------------
 Introducing HorizonAlign, a powerful application designed to revolutionize the process of horizontal alignment design and calculation. Whether you're an engineer, architect, or construction professional, this app is your go-to solution for precise alignment design, azimuth calculation, and visual representation, all seamlessly integrated with the Unity platform for showing the visual.
 
 With HorizonAlign, you can design of over 270 predefined points of intersection, ensuring optimal running and reducing the need for manual adjustments. This comprehensive collection covers various scenarios, including road networks, railway tracks, and other linear infrastructure projects.
@@ -15,14 +14,12 @@ In addition to its design capabilities, HorizonAlign doubles as a preliminary de
 HorizonAlign sets a new standard for horizontal alignment design applications, combining robust calculation algorithms, immersive visualizations powered by Unity, and seamless data integration with Microsoft Excel.
 
 # Installation
------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Extract the v1.4-stable.zip
 2. Make sure "logo.ico", "UI folder", & "Tabel Rek.Geometrik Jalan.xlsx" are at the same folder as "main.exe"
 3. If there are not those 3 files, make sure to show the hidden files by view --> show --> hidden items on Windows 11
 4. Run the "main.exe"
 
 # Known Limitation
------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Windows 11 tested (another vers. of Windows yet to test)
 2. Azimuth & Horizontal Alignment are not sync
 3. Only ".xlsx" format that can be supported for Horizontal Alignment
@@ -30,7 +27,6 @@ HorizonAlign sets a new standard for horizontal alignment design applications, c
 5. Using Indonesia's rule for 2021 Road Geometric Design Guideline
 
 # How to Use
------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. **Azimuth** menu
    1. Fill in the box how many point that want to be calculated
    2. Pop-up window will be shown. Fill in the coordinate points for X & Y points
@@ -45,3 +41,10 @@ HorizonAlign sets a new standard for horizontal alignment design applications, c
    5. If app cannot find the right answer, a warning message will be shown and shows where the error occured
    6. Click the "Save to .xlsx" button to convert and save it to Microsoft Excel
    7. Click the "Save to .txt" button to save the coordinate point form the calculation
+
+3. **Unity Files**
+   1. Extract unity.zip
+   2. Create new 2D scene
+   3. Copy "coordinate.txt" & "coordinate_pi.txt" into the **assets** folder
+   4. Copy "editor" folder into the **assets** folder
+   5. The coordinates will be drawn in the "Scene" view
