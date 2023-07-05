@@ -43,8 +43,8 @@ HorizonAlign sets a new standard for horizontal alignment design applications, c
    7. Click the "Save to .txt" button to save the coordinate point form the calculation
 
 3. **Unity Files**
-   1. Extract unity.zip
+   1. Extract Editor.zip
    2. Create new 2D scene
-   3. Copy "coordinate.txt" & "coordinate_pi.txt" into the **assets** folder
+   3. Copy "coordinate.txt" & "coordinate_pi.txt" from the app's calculation into the **assets** folder
    4. Copy "editor" folder into the **assets** folder
    5. The coordinates will be drawn in the "Scene" view
