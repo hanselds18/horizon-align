@@ -1,5 +1,5 @@
 # horizon-align
-Introducing HorizonAlign, a powerful application designed to revolutionize the process of horizontal alignment design and calculation. Whether you're an engineer, architect, or construction professional, this app is your go-to solution for precise alignment design, azimuth calculation, and visual representation, all seamlessly integrated with the Unity platform for showing the visual.
+Introducing HorizonAlign, a powerful application designed to shorten the process of horizontal alignment design and calculation. Whether you're an engineer, architect, or construction professional, this app is your go-to solution for precise alignment design, azimuth calculation, and visual representation, all seamlessly integrated with the Unity platform for showing the visual (NOT FOR SALE).
 
 With HorizonAlign, you can design of over 270 predefined points of intersection, ensuring optimal running and reducing the need for manual adjustments. This comprehensive collection covers various scenarios, including road networks, railway tracks, and other linear infrastructure projects.
 
