@@ -16,7 +16,7 @@ HorizonAlign sets a new standard for horizontal alignment design applications, c
 # Installation
 1. Extract the v1.4-stable.zip
 2. Make sure "logo.ico", "UI folder", & "Tabel Rek.Geometrik Jalan.xlsx" are at the same folder as "main.exe"
-3. If there are not those 3 files, make sure to show the hidden files by view --> show --> hidden items on Windows 11
+3. If those 3 files are missing, make sure to show the hidden files by view --> show --> hidden items on Windows 11/10
 4. Run the "main.exe"
 
 # Known Limitation
